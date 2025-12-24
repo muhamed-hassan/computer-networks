@@ -1,4 +1,4 @@
-#### Please visit the wiki for more info https://github.com/muhamed-hassan/computer-networks/wiki
+#### Please visit the [wiki](https://github.com/muhamed-hassan/computer-networks/wiki) for more info
 
 *** 
 
